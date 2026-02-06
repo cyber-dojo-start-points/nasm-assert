@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/nasm-assert.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/nasm-assert)
+[![Github Action (master)](https://github.com/cyber-dojo-start-points/nasm-assert/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/nasm-assert/actions)
 
-### display_name="Asm, assert"
-### image_name="[cyberdojofoundation/nasm_assert](https://hub.docker.com/repository/docker/cyberdojofoundation/nasm_assert)"
+### display_name="Asm 2.16.01, assert"
+### image_name="[ghcr.io/cyber-dojo-languages/nasm_assert](https://ghcr.io/cyber-dojo-languages/nasm_assert)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
