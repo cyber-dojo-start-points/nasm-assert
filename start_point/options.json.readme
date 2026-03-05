@@ -1,5 +1,5 @@
 
-When the ./pipe_build_up_test.sh script runs it send the start_point/
+When the ./pipe_build_up_test.sh script runs it sends the start_point/
 files (as defined in manifes.json) to the runner service three times.
 
 1) The files are unmodified, and a red traffic-light is expected.
@@ -19,18 +19,18 @@ how the runner should modifiy the source files. For example,
 here is options.json for nasm-assert
 
 { "red": {
-    "filename":"hiker.asm",
-    "from":"mov ebx, 9",
-    "to":"mov ebx, 99"
+    "filename": "hiker.asm",
+    "from": "mov ebx, 9",
+    "to": "mov ebx, 99"
   },
   "amber": {
-    "filename":"hiker.asm",
-    "from":"mov ebx, 9",
-    "to":"movsdsd ebx, 9"
+    "filename": "hiker.asm",
+    "from": "mov ebx, 9",
+    "to": "movsdsd ebx, 9"
   },
   "green": {
-    "filename":"hiker.asm",
-    "from":"mov ebx, 9",
-    "to":"mov ebx, 7"
+    "filename": "hiker.asm",
+    "from": "mov ebx, 9",
+    "to": "mov ebx, 7"
   }
 }
