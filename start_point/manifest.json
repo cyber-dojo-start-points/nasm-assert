@@ -1,4 +1,5 @@
 {
+  "image_name": "ghcr.io/cyber-dojo-languages/nasm_assert:ed46f8a",
   "display_name": "Asm 2.16.01, assert",
   "language": [
     "Asm",
@@ -8,7 +9,6 @@
     "assert",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/nasm_assert:00ed53b",
   "visible_filenames": [
     "hiker.tests.c",
     "hiker.h",
