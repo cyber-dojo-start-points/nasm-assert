@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/nasm_assert:ed46f8a",
-  "display_name": "Asm 2.16.01, assert",
+  "image_name": "ghcr.io/cyber-dojo-languages/nasm_assert:b0284a0",
+  "display_name": "Asm 2.16, assert",
   "language": [
     "Asm",
-    "2.16.01"
+    "2.16"
   ],
   "test_framework": [
     "assert",
