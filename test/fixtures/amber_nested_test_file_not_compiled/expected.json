@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "undefined reference to .the_answer_is_two_digits_long.$": 1,
+    ": Assertion .* failed\\.$": 0,
+    "^All tests passed$": 0
+  }
+}

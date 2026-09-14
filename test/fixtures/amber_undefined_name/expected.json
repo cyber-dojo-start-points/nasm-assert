@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "matches": [ "^hiker\\.tests\\.c:[0-9]+:[0-9]+: error: implicit declaration of function .ansewr.; did you mean .answer.\\? \\[-Werror=implicit-function-declaration\\]$" ],
+  "match_counts": {
+    "^cc1: all warnings being treated as errors$": 1,
+    ": Assertion .* failed\\.$": 0,
+    "^All tests passed$": 0
+  }
+}

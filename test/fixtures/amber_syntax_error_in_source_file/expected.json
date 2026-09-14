@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "matches": [ "^hiker\\.asm:[0-9]+: error: expecting \\] at end of memory operand$" ],
+  "match_counts": {
+    ": Assertion .* failed\\.$": 0,
+    "^All tests passed$": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "matches": [ "^checksum\\.asm:[0-9]+: error: " ],
+  "match_counts": {
+    ": Assertion .* failed\\.$": 0,
+    "^All tests passed$": 0
+  }
+}

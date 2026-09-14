@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 10,
+  "truncated": false,
+  "match_counts": {
+    "^All tests passed$": 1,
+    ": Assertion .* failed\\.$": 0
+  }
+}

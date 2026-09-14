@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "matches": [ "undefined reference to .main." ],
+  "match_counts": {
+    ": Assertion .* failed\\.$": 0,
+    "^All tests passed$": 0
+  }
+}

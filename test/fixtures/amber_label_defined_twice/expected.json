@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^hiker\\.asm:[0-9]+: error: label .answer. inconsistently redefined$": 1,
+    "^hiker\\.asm:[0-9]+: info: label .answer. originally defined here$": 1,
+    ": Assertion .* failed\\.$": 0,
+    "^All tests passed$": 0
+  }
+}

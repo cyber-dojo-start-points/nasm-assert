@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^hiker\\.asm:5: error: parser: instruction expected$": 1,
+    ": Assertion .* failed\\.$": 0,
+    "^All tests passed$": 0
+  }
+}
